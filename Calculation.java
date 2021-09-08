@@ -5,7 +5,7 @@ public class Calculation {
 	public static void main(String[] args) {
 		
 		int i = 0;    
-		System.out.println("Printing the list of first 10 even numbers \n");    
+		System.out.println(" list of first 10 even numbers \n");    
 		while(i<=10) {
 			i = i + 2; 
 		}
